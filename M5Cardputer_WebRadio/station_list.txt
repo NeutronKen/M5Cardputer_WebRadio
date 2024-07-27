@@ -1,3 +1,7 @@
 MundoLivre FM,https://up-rcr.webnow.com.br/mundolivre.mp3
 Radio Mundo do Rock,https://servidor34.brlogic.com:8014/live
-u80s,http://ice6.somafm.com/u80s-128-mp3
+Underground 80s,http://ice6.somafm.com/u80s-128-mp3
+Def Con Radio, https://ice2.somafm.com/defcon-256-mp3
+Soma FM Specials, https://ice2.somafm.com/specials-128-mp3
+Left Coast 70's, https://ice6.somafm.com/seventies-128-mp3
+Illinois Street Lounge, https://ice6.somafm.com/illstreet-128-mp3
